@@ -10,4 +10,4 @@
 | A4  | Custom shellcode encoder      | [code](A4/) | [f1zm0.dev/slae32-custom-shellcode-encoder ](https://f1zm0.dev/slae32-custom-shellcode-encoder)      |
 | A5  | Msfvenom shellcode analysis   | [code](A5/) | [f1zm0.dev/slae32-msfvenom-shellcode-analysis](https://f1zm0.dev/slae32-msfvenom-shellcode-analysis) |
 | A6  | Polymorphic shellcode samples | [code](A6/) | [f1zm0.dev/slae32-shellcode-polymorphism ](https://f1zm0.dev/slae32-shellcode-polymorphism)          |
-| A7  | Shellcode crypter             | [code](A7/) | [f1zm0.dev/slae32-shellcode-crypter ](https://f1zm0.dev/slae32-shellcode-crypter)                    |
+| A7  | Shellcode crypter             | [code](A7/) | [f1zm0.dev/slae32-shellcode-crypter ](https://f1zm0.dev/slae32-shellcode-crypter-loader-cgo)         |
