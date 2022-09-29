@@ -1,0 +1,13 @@
+.vim
+*.swp
+*.o
+tmp/
+dist/
+/**/shellcode_tester
+/**/egghunter
+/**/shell_reverse_tcp
+/**/shell_bind_tcp
+/**/run_sc
+/**/chmod_shadow
+/**/add_r00t
+/**/shellcode
